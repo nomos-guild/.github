@@ -14,8 +14,8 @@ Nomos Guild is an organization built by [SIDAN Lab](https://github.com/sidan-lab
 - [multisig-platform](https://github.com/MeshJS/multisig): A multi-signature platform with governance features for DRep teams and collectives
 
 ## Guild for Common Goods
-
-- CPSs and CIPs: Ideation and design of CIPs & CPSs to enhance cardano onchain governance.
+CPSs and CIPs: Ideation and design of Cardano Improvement Proposals (CIPs) & Cardano Problem Statements (CPSs) to enhance cardano onchain governance.
+- [CPS: Cardano Multi Asset Treasury](https://github.com/cardano-foundation/CIPs/pull/1103/commits/7c2f281beb6bdb2cebf9302c78ae224461986a11) A CPS to introduce the concept of a Cardano Multi Asset Treasury
 
 ---
 
