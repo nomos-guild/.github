@@ -3,7 +3,7 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/nomos-guild?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/nomos-guild?style=social)
 
-Nomos Guild is an organization built by [SIDAN Lab](https://github.com/sidan-lab) & [MeshJS](https://github.com/MeshJS). Our objective is to design and develop open-source onchain governance tooling, infrastructure & architecture on the cardano blockchain ecosystem
+Nomos Guild is an organization built by [SIDAN Lab](https://github.com/sidan-lab) & [MeshJS](https://github.com/MeshJS). Our objective is to design and develop open-source onchain governance tooling, infrastructure & architecture to support and improve Cardano Onchain Governance
 
 ## Open Source Work
 
