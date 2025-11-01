@@ -12,6 +12,8 @@ Nomos Guild is an organization built by [SIDAN Lab](https://github.com/sidan-lab
 - [governance-crowdfund](https://github.com/MeshJS/mesh-aiken-crowdfund): A tool for crowdfunding for awesome governance action deposit, brought by MeshJS
 - [gov-dashboard](https://github.com/MeshJS/governance): A tool for visualing organization participation in Cardano, brought by MeshJS
 - [multisig-platform](https://github.com/MeshJS/multisig): A multi-signature platform with governance features for DRep teams and collectives
+- [Cardano-ambassador-tools](https://github.com/cardano-foundation/cardano-ambassador-tool): On & offchain tools for the Cardano Ambassador program by Mesh & SIDAN Lab
+- [Mesh-sdk](https://github.com/MeshJS/mesh): Typescript sdk including governance transaction features by Mesh
 
 ## Guild for Common Goods
 CPSs and CIPs: Ideation and design of Cardano Improvement Proposals (CIPs) & Cardano Problem Statements (CPSs) to enhance cardano onchain governance.
