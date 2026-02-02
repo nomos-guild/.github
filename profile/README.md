@@ -5,11 +5,15 @@
 
 Nomos Guild is an organization built by [SIDAN Lab](https://github.com/sidan-lab) & [MeshJS](https://github.com/MeshJS). Our objective is to design and develop open-source onchain governance tooling, infrastructure & architecture to support and improve Cardano Onchain Governance
 
-## Open Source Work
-
-- [cgov](https://github.com/nomos-guild/cgov): A governance tool filling the gaps in community
-- [cgov-api](https://github.com/nomos-guild/cgov-api): The backend API the all other gov tools in Nomos
+## Relevant Repositories on this organisation:
+- [cgov](https://github.com/nomos-guild/nomos): CGOV Frontend
+- [cgov-api](https://github.com/nomos-guild/cgov-api): CGOV Backend
+- [cmat](https://github.com/nomos-guild/cmat): Cardano Multi Asset Treasury CPS/CIP
+- [nomos](https://github.com/nomos-guild/nomos): Nomos website
 - [cgov-mcp](https://github.com/nomos-guild/cgov-mcp): The MCP server of indexing `cgov-api` database for intelligent Cardano Governance AI
+  
+## Other Open Source Work around Cardano Governance
+
 - [gov-discord-bot](https://github.com/sidan-lab/sidan-gov-discord-bot): A tool for DRep interacting with delegators, brought by SIDAN Lab
 - [governance-crowdfund](https://github.com/MeshJS/mesh-aiken-crowdfund): A tool for crowdfunding for awesome governance action deposit, brought by Mesh
 - [gov-dashboard](https://github.com/MeshJS/governance): A tool for visualing organization participation in Cardano, brought by Mesh
@@ -17,10 +21,5 @@ Nomos Guild is an organization built by [SIDAN Lab](https://github.com/sidan-lab
 - [Cardano-ambassador-tools](https://github.com/cardano-foundation/cardano-ambassador-tool): On & offchain tools for the Cardano Ambassador program by Mesh & SIDAN Lab
 - [Mesh-sdk](https://github.com/MeshJS/mesh): Typescript sdk including governance transaction features by Mesh
 
-## Guild for Common Goods
-CPSs and CIPs: Ideation and design of Cardano Improvement Proposals (CIPs) & Cardano Problem Statements (CPSs) to enhance cardano onchain governance.
-- [CPS: Cardano Multi Asset Treasury](https://github.com/cardano-foundation/CIPs/pull/1103/commits/7c2f281beb6bdb2cebf9302c78ae224461986a11) A CPS to introduce the concept of a Cardano Multi Asset Treasury
 
----
-
-_Progress Governance on Cardano._
+_Progress ONCHAIN Governance on Cardano._
