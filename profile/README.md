@@ -6,7 +6,7 @@
 Nomos Guild is an organization built by [SIDAN Lab](https://github.com/sidan-lab) & [MeshJS](https://github.com/MeshJS). Our objective is to design and develop open-source onchain governance tooling, infrastructure & architecture to support and improve Cardano Onchain Governance
 
 ## Relevant Repositories on this organisation:
-- [cgov](https://github.com/nomos-guild/nomos): CGOV Frontend
+- [cgov](https://github.com/nomos-guild/cgov): CGOV Frontend
 - [cgov-api](https://github.com/nomos-guild/cgov-api): CGOV Backend
 - [cmat](https://github.com/nomos-guild/cmat): Cardano Multi Asset Treasury CPS/CIP
 - [nomos](https://github.com/nomos-guild/nomos): Nomos website
