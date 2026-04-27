@@ -11,6 +11,7 @@ Nomos Guild is an organization built by [SIDAN Lab](https://github.com/sidan-lab
 - [cmat](https://github.com/nomos-guild/cmat): Cardano Multi Asset Treasury CPS/CIP
 - [nomos](https://github.com/nomos-guild/nomos): Nomos website
 - [cgov-mcp](https://github.com/nomos-guild/cgov-mcp): The MCP server of indexing `cgov-api` database for intelligent Cardano Governance AI
+- [drep-lens](https://github.com/nomos-guild/drep-lens): Web app + embeddable component for Cardano DRep cluster, coalition, and migration analysis
   
 ## Other Open Source Work around Cardano Governance
 
